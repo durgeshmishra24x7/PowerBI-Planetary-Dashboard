@@ -1,5 +1,5 @@
 # PowerBI-Planetary-Dashboard
-Fetch the Planetary Fact table from the NASA’s website, create an interactive PowerBI dashboard and apply an automatic dashboard refresh option.
+Get the Planetary Fact table from the NASA’s website, create an interactive PowerBI dashboard and apply an automatic dashboard refresh option.
 Objective: - Fetch the Planetary Fact table from the NASA’s website, create an interactive PowerBI dashboard and enabled an automatic dashboard refresh option.
 
 PowerBI brief introduction-
