@@ -1,8 +1,8 @@
 # PowerBI-Planetary-Dashboard
 Fetch the Planetary Fact table from the NASA’s website, create an interactive PowerBI dashboard and apply an automatic dashboard refresh option.
-Objective: - Fetch the Planetary Fact table from the NASA’s website, create an interactive PowerBI dashboard and apply an automatic dashboard refresh option.
+Objective: - Fetch the Planetary Fact table from the NASA’s website, create an interactive PowerBI dashboard and enabled an automatic dashboard refresh option.
 
-PowerBI brief introduction
+PowerBI brief introduction-
 Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Your data may be an Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses. Power BI lets you easily connect to your data sources, visualize and discover what's important, and share that with anyone or everyone you want.
 
 URL: -  https://nssdc.gsfc.nasa.gov/planetary/factsheet/
